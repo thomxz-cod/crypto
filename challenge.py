@@ -1,5 +1,5 @@
 import string
-from crypto.secret import MSG
+from secret import MSG
 
 def encryption(msg):
     ct = []
